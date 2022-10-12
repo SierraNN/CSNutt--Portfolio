@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
+
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+
+.card{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 1em;
+    color: #FFF;
+    background-color: transparent;
+}
+
